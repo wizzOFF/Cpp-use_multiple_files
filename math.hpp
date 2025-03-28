@@ -1,0 +1,5 @@
+
+#ifndef MATH_HPP_INCLUDED
+#define MATH_HPP_INCLUDED
+
+#endif // MATH_HPP_INCLUDED
